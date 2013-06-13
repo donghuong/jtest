@@ -1,4 +1,0 @@
-jtest
-=====
-
-Java test
